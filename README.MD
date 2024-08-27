@@ -4,7 +4,7 @@ Hi 👋 My name is Thanh Bình
 Fullstack Engineer
 ------------------------------
 
-i've been learning code for 10+ years and have 6 years of competitive programming
+i've been coding for 10+ years with 4+ years of fullstack development and 6 years of competitive programming experiences
 
 * 🌍  I'm based in Viet Nam
 * ✉️  You can contact me at [binhnguyenthanh19242yahoo@gmail.com](mailto:binhnguyenthanh19242yahoo@gmail.com) or +84 979 5534 94
