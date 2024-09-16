@@ -1,4 +1,7 @@
-Hi 👋 My name is Thanh Bình
+<a href="https://www.github.com/moo-light" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/moo-light?logo=github&style=for-the-badge&color=a855f7&labelColor=22272e" /></a>
+
+Hi 👋 My name is Thanh Binh
 ===========================
 
 Fullstack Engineer
@@ -6,10 +9,10 @@ Fullstack Engineer
 
 i've been coding for 10+ years with a Bachelor degree of Information Technology and 6+ years of competitive programming experiences.
 
-* 🌍  I'm a Vietnam developer in HCM City.
+* 🌍  I'm from Vietnam and currently living in HCM.
 * ✉️  You can contact me at [binhnguyenthanh19242yahoo@gmail.com](mailto:binhnguyenthanh19242yahoo@gmail.com) or [+84 979 5534 94](tel:+84979553494)
-* 🧠  I'm currently focusing on learning ASP.NET to have a deep knowledge in server development. 
-* 🤝  I'm open to collaboration for every projects you can think of.
+* 🧠  I'm currently focusing on learning backend services to have a deep knowledge in server development. 
+* 🤝  I'm open to collaboration for any projects you can think of.
 * ⚡  i'm keen on socializing to reach out with the community.
 
 ### Skills
@@ -173,12 +176,27 @@ i've been coding for 10+ years with a Bachelor degree of Information Technology 
 ### Badges
 
 <b>My GitHub Stats</b>
-<div align="center" dir="auto">
-<a href="http://www.github.com/moo-light">
-<img src="https://github-readme-stats.vercel.app/api?username=moo-light&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="moo-light's GitHub stats" title="moo-light's GitHub stats"  />
-</a>
 
-<a href="http://www.github.com/moo-light">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moo-light&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-</div>
+<svg xmlns="http://www.w3.org/2000/svg" height=100>
+    <style>
+        .d-flex {
+          display:flex;
+          gap:0.5em;
+          justify-content:space-between;
+          margin-top:-100px;
+          max-width:1000px;
+        }
+        .d-flex img {
+          border: solid 1px #aaa;
+          width:100%
+        }
+        @media (max-width:667px) {
+          .d-flex {
+            display:block!important;
+          }
+        }
+    </style>
+    <div class="d-flex">
+        <a href="http://www.github.com/moo-light"><img src="https://github-readme-stats.vercel.app/api?username=moo-light&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&show_icons=true" alt="moo-light's GitHub stats" /></a><a href="http://www.github.com/moo-light"><img src="https://github-readme-streak-stats.herokuapp.com/?user=moo-light&stroke=ffffff&background=22272e&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </div>
+</svg>
