@@ -176,7 +176,8 @@ i've been coding for 10+ years with a Bachelor degree of Information Technology 
 ### Badges
 
 <b>My GitHub Stats</b>
-<style type="text/css">
+<style 
+    type="text/css">
     .d-flex {
         display:flex;
         gap:0.5em;
