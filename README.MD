@@ -9,9 +9,9 @@ Fullstack Engineer
 
 i've been coding for 10+ years with a Bachelor degree of Information Technology and 6+ years of competitive programming experiences.
 
-* 🌍  I'm from Vietnam and currently living in HCM.
+* 🌍  I'm from Vietnam and currently living in HCM .
 * ✉️  You can contact me at [binhnguyenthanh19242yahoo@gmail.com](mailto:binhnguyenthanh19242yahoo@gmail.com) or [+84 979 5534 94](tel:+84979553494)
-* 🧠  I'm currently focusing on learning backend services to have a deep knowledge in server development. 
+* 🧠  I'm currently focusing on learning ASP.NET to have a deeper knowledge in server development. 
 * 🤝  I'm open to collaboration for any projects you can think of.
 * ⚡  i'm keen on socializing to reach out with the community.
 
@@ -176,6 +176,7 @@ i've been coding for 10+ years with a Bachelor degree of Information Technology 
 ### Badges
 
 <b>My GitHub Stats</b>
+<<<<<<< HEAD
 <div align="center">
        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moo-light&layout=compact&show_icon=true&theme=tokyonight" alt="tienhuynh-tn-langs"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=moo-light&layout=compact&show_icon=true&theme=tokyonight" alt="tienhuynh-tn-stats"/>
@@ -185,5 +186,11 @@ i've been coding for 10+ years with a Bachelor degree of Information Technology 
  <a href="http://www.github.com/moo-light">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=moo-light&background=0d1120&theme=midnight-purple&hide_border=true" />
         </a>
-        </div>
+</div>
        
+=======
+
+<div class="d-flex">
+    <a href="http://www.github.com/moo-light"><img src="https://github-readme-stats.vercel.app/api?username=moo-light&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&show_icons=true" alt="moo-light's GitHub stats" /></a><a href="http://www.github.com/moo-light"><img src="https://github-readme-streak-stats.herokuapp.com/?user=moo-light&stroke=ffffff&background=22272e&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</div>
+>>>>>>> main
