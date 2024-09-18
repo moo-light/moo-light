@@ -176,35 +176,13 @@ i've been coding for 10+ years with a Bachelor degree of Information Technology 
 ### Badges
 
 <b>My GitHub Stats</b>
-<style 
-    type="text/css">
-    .d-flex {
-        display:flex;
+<div class="d-flex" style="display:flex;
         gap:0.5em;
         justify-content:space-between;
-        max-width:1000px;
-    }
-    .d-flex img {
-        border: solid 1px #aaa;
-        width:100%
-    }
-    @media (max-width:667px) {
-        .d-flex {
-        display:block!important;
-        }
-        .d-flex img {
-          border: solid 1px #aaa;
-          width:100%
-        }
-        @media (max-width:667px) {
-          .d-flex {
-            display:block!important;
-          }
-        }
-</style>
-<div class="d-flex">
+        max-width:1000px; 
+        ">
         <a href="http://www.github.com/moo-light">
-        <img src="https://github-readme-stats.vercel.app/api?username=moo-light&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&show_icons=true" alt="moo-light's GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=moo-light&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&show_icons=true" alt="moo-light's GitHub stats"  />
         </a>
         <a href="http://www.github.com/moo-light">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=moo-light&stroke=ffffff&background=22272e&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
