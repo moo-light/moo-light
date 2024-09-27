@@ -1,5 +1,6 @@
 <a href="https://www.github.com/moo-light" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/moo-light?logo=github&style=for-the-badge&color=a855f7&labelColor=22272e" /></a>
+src="https://img.shields.io/github/followers/moo-light?logo=github&style=for-the-badge&color=a855f7&labelColor=22272e" /></a>\
+[![An image of @moolight's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/moolight)](https://holopin.io/@moolight)
 
 Hi 👋 My name is Thanh Binh
 ===========================
@@ -177,8 +178,8 @@ i've been coding for 10+ years with a Bachelor degree of Information Technology 
 
 <b>My GitHub Stats</b>
 <div align="center">
-       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moo-light&layout=compact&show_icon=true&theme=tokyonight" alt="tienhuynh-tn-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=moo-light&layout=compact&show_icon=true&theme=tokyonight" alt="tienhuynh-tn-stats"/>
+       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moo-light&layout=compact&show_icon=true&theme=tokyonight" alt="moolight-tn-langs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=moo-light&layout=compact&show_icon=true&theme=tokyonight" alt="moolight-tn-stats"/>
        
 </div>
 <div align=center>
@@ -186,4 +187,3 @@ i've been coding for 10+ years with a Bachelor degree of Information Technology 
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=moo-light&background=0d1120&theme=midnight-purple&hide_border=true" />
         </a>
 </div>
-
