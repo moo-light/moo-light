@@ -188,4 +188,7 @@ i've been coding for 10+ years with a Bachelor degree of Information Technology 
         </a>
 </div>
 
+<<<<<<< HEAD
        
+=======
+>>>>>>> efb2a8c (Hotfix)
