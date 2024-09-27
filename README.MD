@@ -187,8 +187,3 @@ i've been coding for 10+ years with a Bachelor degree of Information Technology 
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=moo-light&background=0d1120&theme=midnight-purple&hide_border=true" />
         </a>
 </div>
-
-<<<<<<< HEAD
-       
-=======
->>>>>>> efb2a8c (Hotfix)
